@@ -13,9 +13,9 @@
 
 </div>
 
-<p align="center"><img src="assets/theme/divider.svg" width="100%"/></p>
+<p align="center"><img src="assets/theme/divider-ink.svg" width="100%"/></p>
 
-<img src="assets/theme/h1.svg" width="100%" alt="About me"/>
+<img src="assets/theme/h1-ink.svg" width="100%" alt="About me"/>
 
 - 🎓 Computer Science student at **Srinakharinwirot University (SWU)**, Bangkok 🇹🇭
 - 🚀 Love turning ideas into working prototypes — fast
@@ -23,9 +23,9 @@
 - 🤖 Currently exploring **AI apps**, **data / ML**, and **cross-platform mobile**
 - 🧵 Side quest: bringing Thai **mudmee (ผ้ามัดหมี่)** weaving into the digital world
 
-<p align="center"><img src="assets/theme/divider.svg" width="100%"/></p>
+<p align="center"><img src="assets/theme/divider-ink.svg" width="100%"/></p>
 
-<img src="assets/theme/h2.svg" width="100%" alt="Tech stack"/>
+<img src="assets/theme/h2-ink.svg" width="100%" alt="Tech stack"/>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,nodejs,express&perline=9" />
@@ -35,9 +35,9 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,figma&perline=9" />
 </p>
 
-<p align="center"><img src="assets/theme/divider.svg" width="100%"/></p>
+<p align="center"><img src="assets/theme/divider-ink.svg" width="100%"/></p>
 
-<img src="assets/theme/h3.svg" width="100%" alt="Featured projects"/>
+<img src="assets/theme/h3-ink.svg" width="100%" alt="Featured projects"/>
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -48,9 +48,9 @@
 | 🎬 [**project-recommentmovie-data**](https://github.com/BoonyasakR/project-recommentmovie-data) | Movie recommendation system | ![](https://img.shields.io/badge/-Data-F97316?style=flat) |
 | 📱 [**CP213_165_LearnAndroid**](https://github.com/BoonyasakR/CP213_165_LearnAndroid) | Mobile dev coursework | ![](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) |
 
-<p align="center"><img src="assets/theme/divider.svg" width="100%"/></p>
+<p align="center"><img src="assets/theme/divider-ink.svg" width="100%"/></p>
 
-<img src="assets/theme/h4.svg" width="100%" alt="GitHub stats"/>
+<img src="assets/theme/h4-ink.svg" width="100%" alt="GitHub stats"/>
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=BoonyasakR&show_icons=true&bg_color=f4f1ea&title_color=ff5a1f&text_color=1a1a1a&icon_color=ff5a1f&hide_border=true&count_private=true" />
@@ -63,7 +63,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BoonyasakR&bg_color=f4f1ea&color=1a1a1a&line=ff5a1f&point=1a1a1a&area_color=ff5a1f&title_color=1a1a1a&hide_border=true&area=true" width="100%" />
 </div>
 
-<p align="center"><img src="assets/theme/divider.svg" width="100%"/></p>
+<p align="center"><img src="assets/theme/divider-ink.svg" width="100%"/></p>
 
 <div align="center">
 
