@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="50" viewBox="0 0 600 50">
+<style>
+.t{font:600 24px ui-monospace,SFMono-Regular,Consolas,Menlo,monospace;fill:#38BDF8}
+#c{animation:type 4s steps(20) infinite}
+@keyframes type{0%{width:0}50%,90%{width:290px}100%{width:0}}
+.k{animation:blink .8s steps(1) infinite, mv 4s steps(20) infinite}
+@keyframes blink{50%{opacity:0}}
+@keyframes mv{0%{transform:translateX(0)}50%,90%{transform:translateX(290px)}100%{transform:translateX(0)}}
+</style>
+<defs><clipPath id="cp"><rect id="c" x="155" y="0" width="290" height="50"/></clipPath></defs>
+<text class="t" x="155" y="33" clip-path="url(#cp)" textLength="290">Hello, I'm Boonyasak</text>
+<rect class="k" x="157" y="13" width="3" height="26" fill="#38BDF8"/>
+</svg>
