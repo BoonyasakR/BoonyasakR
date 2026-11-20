@@ -3,7 +3,7 @@
 <img src="assets/banner.svg" width="100%" alt="Boonyasak R. — builder, hackathoner, CS@SWU"/>
 
 <a href="https://github.com/BoonyasakR">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A+%F0%9F%91%8B+I'm+Boonyasak;I+build+web+%26+mobile+apps;AI-powered+products+%F0%9F%A4%96;Hackathons+are+my+cardio+%F0%9F%8F%83" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello%2C+I%27m+Boonyasak"  alt="Typing SVG" />
 </a>
 
 <br/>
