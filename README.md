@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Boonyasak%20R.&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%E2%80%A2%20Hackathoner%20%E2%80%A2%20CS%20Student%20%40%20SWU&descAlignY=58&descSize=18" width="100%"/>
+<img src="assets/banner.svg" width="100%" alt="Boonyasak R. — builder, hackathoner, CS@SWU"/>
 
 <a href="https://github.com/BoonyasakR">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A+%F0%9F%91%8B+I'm+Boonyasak;I+build+web+%26+mobile+apps;AI-powered+products+%F0%9F%A4%96;Hackathons+are+my+cardio+%F0%9F%8F%83" alt="Typing SVG" />
@@ -69,6 +69,5 @@
 
 💬 *"Ship it first, polish it later."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
