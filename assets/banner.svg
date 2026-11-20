@@ -7,7 +7,7 @@
 <text x="-20" y="250">BUILD · SHIP · BUILD · SHIP · </text></g>
 <rect x="60" y="70" width="610" height="160" fill="#1a1a1a"/>
 <text x="90" y="160" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="72" font-weight="900" fill="#f4f1ea" letter-spacing="-2">BOONYASAK R.</text>
-<text x="92" y="205" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="600" fill="#ff5a1f" letter-spacing="4">BUILDER — HACKATHONER — CS@SWU</text>
+<text x="92" y="205" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#ff5a1f" letter-spacing="2">BOONYASAK RATTANADILOK NA PHUKET — CS@SWU</text>
 <circle cx="1140" cy="80" r="26" fill="#ff5a1f"/>
 </g>
 </svg>
