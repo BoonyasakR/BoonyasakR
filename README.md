@@ -67,7 +67,8 @@
 
 <div align="center">
 
-💬 *"Ship it first, polish it later."*
+*"What stands in the way becomes the way."*<br>
+<sub>— Marcus Aurelius, <i>Meditations</i></sub>
 
 
 </div>
